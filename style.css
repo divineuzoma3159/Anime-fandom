@@ -95,6 +95,12 @@ body{
    margin-left: 7rem;
    padding: 5px 15px;
 }
+    #myLabel{
+   margin-left: 5rem;
+    font-size: 19px;
+    position: relative;
+    top: 6px;
+}
 #myBtn{
    margin-left: 7rem;
 }
@@ -160,3 +166,4 @@ body{
 1366px+ → good for desktop 
 
   */
+
