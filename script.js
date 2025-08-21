@@ -15,19 +15,19 @@ Btn.addEventListener("click",() => {
     }
   },3000)
   setTimeout(() => {
-      if(input.value == "onePiece"){
+      if(input.value == "onePiece" || input.value == "One Piece" || input.value == "OnePiece"){
       img.style.display = "block"
     }else{
       img.style.display = "none"   }
-     if(input.value == "Black clover"){
+     if(input.value == "Black clover" || input.value == "black clover" || input.value == "blackclover" || input.value == "Blackclover"){
       img1.style.display = "block"
     }else{
       img1.style.display = "none"}
-      if(input.value == "Dandandan"){
+      if(input.value == "Dandandan" || input.value == "dandandan"){
         img2.style.display = "block"
       }else{
         img2.style.display = "none"
-      }if(input.value == "demon slayer"){
+      }if(input.value == "demon slayer" || input.value == "Demon slayer" || input.value == "Demonslayer"){
         img3.style.display = "block"
       }else{
         img3.style.display = "none"
@@ -66,4 +66,5 @@ Btns.addEventListener("click",() => {
 // let num = 9
 // let length = num.toString().padStart(2,9)
 // let length = num.toString().padEnd(2,"c")
+
 // console.log(length)
