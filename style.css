@@ -130,7 +130,7 @@ body{
    margin-left: 4rem;
 }
 .hide{
-   position: absolute;
+   position: relative;
    left: 7rem;
    top: 18rem;
 }
@@ -172,5 +172,6 @@ body{
 1366px+ → good for desktop 
 
   */
+
 
 
