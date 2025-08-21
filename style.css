@@ -105,10 +105,13 @@ body{
 }
  }
  @media (max-width:480px) {
+    body{
+       overflow: hidden;
+    }
     #Allow{
    font-size: 20px;
    border-radius: 5px;
-   margin-left: 4rem;
+   margin-left: 2rem;
    padding: 5px 15px;
 }
 #myBtn{
@@ -117,7 +120,7 @@ body{
 .hide{
    position: absolute;
    left: 4rem;
-   bottom: 6rem;
+   top: 18rem;
 }
 #onePiece{
    height: 300px;
@@ -155,4 +158,5 @@ body{
 1024px → good for small laptops.
 
 1366px+ → good for desktop 
+
   */
