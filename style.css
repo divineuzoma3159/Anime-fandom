@@ -115,7 +115,7 @@ body{
        overflow: hidden;
     }
         #myLabel{
-   margin-left: 3rem;
+   margin-left: 1rem;
     font-size: 19px;
     position: relative;
     top: 6px;
@@ -172,6 +172,7 @@ body{
 1366px+ → good for desktop 
 
   */
+
 
 
 
