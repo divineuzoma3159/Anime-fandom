@@ -96,7 +96,7 @@ body{
    padding: 5px 15px;
 }
     #myLabel{
-   margin-left: 5rem;
+   margin-left: 3rem;
     font-size: 19px;
     position: relative;
     top: 6px;
@@ -107,13 +107,19 @@ body{
 .hide{
    position: absolute;
    left: 6rem;
-   bottom: 10rem;
+   top:15rem
 }
  }
  @media (max-width:480px) {
     body{
        overflow: hidden;
     }
+        #myLabel{
+   margin-left: 3rem;
+    font-size: 19px;
+    position: relative;
+    top: 6px;
+}
     #Allow{
    font-size: 20px;
    border-radius: 5px;
@@ -125,7 +131,7 @@ body{
 }
 .hide{
    position: absolute;
-   left: 4rem;
+   left: 7rem;
    top: 18rem;
 }
 #onePiece{
@@ -166,4 +172,5 @@ body{
 1366px+ → good for desktop 
 
   */
+
 
