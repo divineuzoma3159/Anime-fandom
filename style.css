@@ -130,9 +130,9 @@ body{
    margin-left: 4rem;
 }
 .hide{
-   position: relative;
+   position: absolute;
    left: 5rem;
-   top: 10rem;
+   top: 7.8rem;
 }
 #onePiece{
    height: 300px;
@@ -172,6 +172,7 @@ body{
 1366px+ → good for desktop 
 
   */
+
 
 
 
