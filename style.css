@@ -107,7 +107,7 @@ body{
 .hide{
    position: absolute;
    left: 6rem;
-   top:15rem
+   top:18rem
 }
  }
  @media (max-width:480px) {
@@ -175,6 +175,7 @@ body{
 1366px+ → good for desktop 
 
   */
+
 
 
 
