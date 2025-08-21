@@ -15,7 +15,7 @@ Btn.addEventListener("click",() => {
     }
   },3000)
   setTimeout(() => {
-      if(input.value == "onePiece" || input.value == "One Piece" || input.value == "OnePiece" || input.value == "Onepiece" || input.value == "onepiece"){
+      if(input.value == "onePiece" || input.value == "One Piece" || input.value == "One piece"  || input.value == "OnePiece" || input.value == "Onepiece" || input.value == "onepiece"){
       img.style.display = "block"
     }else{
       img.style.display = "none"   }
@@ -68,4 +68,5 @@ Btns.addEventListener("click",() => {
 // let length = num.toString().padEnd(2,"c")
 
 // console.log(length)
+
 
