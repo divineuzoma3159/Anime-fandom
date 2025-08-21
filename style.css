@@ -133,7 +133,7 @@ body{
    position: absolute;
    left: 5rem;
    top: 21rem;
-   overflow: hidden;
+   overflow-x: hidden;
 }
 #onePiece{
    height: 300px;
@@ -173,6 +173,7 @@ body{
 1366px+ → good for desktop 
 
   */
+
 
 
 
